@@ -1,6 +1,6 @@
 # Assignment 01
 
-# HTML, CSS, and Git: Code Refactor
+# HTML, CSS, and Git: Horiseon Website Code Refactor
 
 ## Description
 
@@ -39,7 +39,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Screenshot
+## Screenshots
 
 ![alt text](./assets/images/Screenshot%201.png)
 ![alt text](./assets/images/Screenshot%202.png)
