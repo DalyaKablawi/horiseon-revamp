@@ -47,5 +47,5 @@ THEN I find a concise, descriptive title
 
 ## URLs
 
-- Github repository URL:
-- The URL of the deployed application:
+- [Github repository URL](https://github.com/DalyaKablawi/horiseon-revamp)
+- [Deployed application URL]
