@@ -25,6 +25,7 @@ body {
   color: #d9dcd6;
 }
 
+/*changed <div> element to <nav> inside .header to increase accessibility of code*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,10 +34,12 @@ body {
   font-size: 20px;
 }
 
+/*changed <div> element to <nav> inside .header to increase accessibility of code*/
 .header nav ul {
   list-style-type: none;
 }
 
+/*changed <div> element to <nav> inside .header to increase accessibility of code*/
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
