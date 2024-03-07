@@ -48,4 +48,4 @@ THEN I find a concise, descriptive title
 ## URLs
 
 - [Github repository URL](https://github.com/DalyaKablawi/horiseon-revamp)
-- [Deployed application URL]
+- [Deployed application URL](https://dalyakablawi.github.io/horiseon-revamp/)
